@@ -24,7 +24,7 @@ DevOps
 .. _phoenix-project: http://www.amazon.com/gp/product/B00AZRBLHO/ref=as_li_tf_tl?ie=UTF8&tag=sf0117-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00AZRBLHO
 
 Configuration Management:
-.. _saltstack-for-devops: https://leanoub.com/saltstackfordevops
+.. SaltStack For DevOps: https://leanoub.com/saltstackfordevops
 
 
 CMDB
