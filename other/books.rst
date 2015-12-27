@@ -52,6 +52,6 @@ Free
 Leanpub
 ------
 
-* SaltStack For DevOps: Extremely fast and simple IT automation and configuration management: saltstack-for-devops
+* SaltStack For DevOps: Extremely fast and simple IT automation and configuration management: saltstack-for-devops_
 
 .. _saltstack-for-devops: https://leanoub.com/saltstackfordevops
