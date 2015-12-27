@@ -23,9 +23,6 @@ DevOps
 .. _continous-delivery-devops: http://www.amazon.com/gp/product/B009ZUECSW/ref=as_li_tf_tl?ie=UTF8&tag=sf0117-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009ZUECSW
 .. _phoenix-project: http://www.amazon.com/gp/product/B00AZRBLHO/ref=as_li_tf_tl?ie=UTF8&tag=sf0117-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00AZRBLHO
 
-Configuration Management:
-.. SaltStack For DevOps: https://leanoub.com/saltstackfordevops
-
 
 CMDB
 ^^^^
@@ -51,3 +48,9 @@ Free
 .. _ibm-for-dummies: https://www.ibm.com/developerworks/community/blogs/greenelk/entry/application_release_and_deployment_for_dummies_now_available
 .. _free-programming: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 .. _open-source-architecture: http://aosabook.org/en/index.html
+
+Leanpub
+------
+
+* SaltStack For DevOps: Extremely fast and simple IT automation and configuration management: saltstack-for-devops
+.. saltstack-for-devops: https://leanoub.com/saltstackfordevops
